@@ -70,3 +70,4 @@
 # fix 4872
 # optimize 7861
 # fix 2159
+# fix 1520
