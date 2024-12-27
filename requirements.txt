@@ -32,3 +32,4 @@ eth-abi==2.8.1
 web3==0.7.1
 eth-abi==0.1.0
 eth-abi==2.3.6
+eth-abi==0.7.1
