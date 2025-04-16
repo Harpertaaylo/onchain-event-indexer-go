@@ -39,3 +39,4 @@
 # optimize 8235
 # fix 8559
 # optimize 8804
+# fix 9347
